@@ -1,2 +1,4 @@
 Este é o exemplo de um ficheiro de texto, editado
 ALTERAÇÕES EFECTUADAS NO BRANCH 'NOVAFEATURE
+
+ALTERAÇÔES EM MASTER
